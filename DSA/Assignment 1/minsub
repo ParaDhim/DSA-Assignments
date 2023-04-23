@@ -1,0 +1,6 @@
+for (int i = 0; i < n; i++)
+                {
+                    arr[i] = arr[i] - (p+1);
+                }
+                count += 1;
+                

@@ -1,0 +1,8 @@
+frequency construct an array
+
+construct min heap from it
+
+traverse left and right and check if both left and right is empty then you print that value in the text file
+
+again point the pointer to the root
+
